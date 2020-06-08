@@ -19,10 +19,10 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'rspec-rails'
   gem 'pry'
-  gem 'capybara'
   gem 'shoulda-matchers'
   gem 'awesome_print'
   gem 'simplecov'
+  gem 'rack-test'
   gem 'nyan-cat-formatter'
 end
 
